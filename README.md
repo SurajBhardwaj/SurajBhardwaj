@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SurajBhardwaj
+- 👀 I’m interested in Human Robot Collaboration (HRC), Mobile Robotics, ML/DL/AI/CV
+- 🌱 I’m currently learning Unity/MOSIM, ML, DL
+- 💞️ I’m looking to collaborate on Mobile Robotics, HRC, Autonomous Driving
+- 📫 How to reach me -- Just write me an email on (surajnith27@gmail.com)
