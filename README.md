@@ -1,11 +1,11 @@
 # Hi there, I'm SurajBhardwaj.
 
-## I'm a Master's Student at Uni-Siegen and Researcher in Deep Learning and Computer Vision!
+## I'm a Master's Student at Uni-Siegen and Working on Deep Learning and Computer Vision!
 
 - 🌱 I’m currently working on some research projects related to DL and Computer Vision.
-- 👯 I’m looking forward to collaborate with other researchers on Mobile Robotics, HRC, Autonomous Driving!
+- 👯 I’m looking forward to collaborate with other researchers on Mobile Robotics, DeepL, CompVision, Autonomous Driving!
 - 📫 How to reach me -- Just write me an email on (surajnith27@gmail.com).
-- 🥅 2022 Goals: Learn more about Deep Unsupervised Learning applications.
+- 🥅 2022 Goals: Learn more about Deep Learning applications.
 - ⚡ Extra Activities: I love to draw sketch and play Basketball.
 
 ### Connect with me on LinkedIn: https://www.linkedin.com/in/suraj-b-402248a6/
